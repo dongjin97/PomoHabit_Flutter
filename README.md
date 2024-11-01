@@ -1,4 +1,4 @@
-# PomoHabit Flutter를 이용한 Android 출시
+# PomoHabit Flutter를 이용한 Android 앱 구현
 
 ![image](https://github.com/PlanLit/PomoHabit/assets/97212841/f521e861-1bf6-4a07-8ceb-f05558a50e80)
 
