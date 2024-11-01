@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pomohabbit/screen/main/s_main.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,18 +13,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
       ),
-      home: Home(),
+      home: MainScreen(),
     );
   }
 }
 
-class Home extends StatelessWidget {
-  const Home({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text('Main'),),
-    );
-  }
-}
